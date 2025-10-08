@@ -1,4 +1,4 @@
-#Face Detection (Webcam + YOLOv8)
+# Face Detection (Webcam + YOLOv8)
 
 A small project that detects a face from your webcam using **YOLOv8 (Ultralytics)**.  
 
